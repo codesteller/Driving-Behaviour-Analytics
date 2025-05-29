@@ -1,6 +1,6 @@
 # Driving Behaviour Analitics System
 ![GitHub Repo stars](https://img.shields.io/github/stars/codesteller/Driving-Behaviour-Analytics)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Driving-Behaviour-Analitics-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/codesteller/Driving-Behaviour-Analytics)
 
 This project is a Driver Behaviour Monitoring System that uses computer vision to analyze driver behavior in real-time. It detects various actions such as phone usage, smoking, and drowsiness, and provides feedback to improve driving safety. It also extracts drivers emotions and provides a summary of the driver's behavior.
 ## Features
